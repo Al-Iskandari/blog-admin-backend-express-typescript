@@ -9,7 +9,10 @@ This project represents a RESTful API built with Node.js, TypeScript and Sequeli
 - Sequelize
 - Express.js (inferred by framework)
 - JWT 
-- Multer and Sharp
+- Multer and Sharp\
+
+## Project Directory structures
+![project-structures](https://github.com/user-attachments/assets/5d855064-698c-40c9-84df-645c9a27dc8d)
 
 ### 📁 public/static/images/
 
