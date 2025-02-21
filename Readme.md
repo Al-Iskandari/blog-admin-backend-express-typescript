@@ -19,9 +19,9 @@ This project represents a RESTful API built with Node.js, TypeScript and Sequeli
 Directory to store still images.
 
 ### 📄 Installation
-git clone https://github.com/Al-Iskandari/blog-admin-backend-express-typescript.git
-cd yourproject
-npm install
-# After establishing your DB connection!
-npm run dev
+- git clone https://github.com/Al-Iskandari/blog-admin-backend-express-typescript.git
+- cd yourproject
+- npm install
+#After establishing your DB connection!
+- npm run dev
 
